@@ -1,0 +1,12 @@
+2023-01-04 18:23:35 [main] INFO  c.m.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.16.1 on MohammadSalah with PID 24440 (D:\twitter-microservices\twitter-to-kafka-service\target\classes started by Mohammad.Salah in D:\twitter-microservices)
+2023-01-04 18:23:35 [main] INFO  c.m.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-01-04 18:23:37 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8181 (http)
+2023-01-04 18:23:37 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8181"]
+2023-01-04 18:23:37 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-01-04 18:23:37 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-01-04 18:23:37 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-01-04 18:23:37 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2406 ms
+2023-01-04 18:23:38 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8181"]
+2023-01-04 18:23:38 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8181 (http) with context path ''
+2023-01-04 18:23:38 [main] INFO  c.m.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 3.667 seconds (JVM running for 7.262)
+2023-01-04 18:23:38 [main] INFO  c.m.t.k.s.TwitterToKafkaServiceApplication - Application started
